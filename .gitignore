@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+.idea/
+*.db
+*.user
+*.db-shm
+*.db-wal
+.claude/
+docs/
